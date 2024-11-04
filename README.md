@@ -1,0 +1,2 @@
+# ssh
+ssh zápis
