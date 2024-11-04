@@ -1,4 +1,4 @@
-# ssh
+# všemožné věci
 **random zápis**
 -VPN zajišťuje že se v internetu vytvorí "tunel" přesměrovává všechny packety na jiný stroj který je poté identifiková jiným serverem
 
