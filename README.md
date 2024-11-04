@@ -34,6 +34,7 @@ ostatní protokoly:
   -FTP
   
       -přemisťování souborů (vzdáleně)
+      -používaný v tiskárnách a při zprávě webu
       
   -NTP
   
@@ -47,3 +48,6 @@ ostatní protokoly:
   -SMTP
 
     -email
+ 
+    -pomalý není realtime
+    
