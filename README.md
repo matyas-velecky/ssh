@@ -51,3 +51,5 @@ ostatní protokoly:
  
     -pomalý není realtime
     
+IPv4 2^32 adress
+IPv6 2^128 adress
